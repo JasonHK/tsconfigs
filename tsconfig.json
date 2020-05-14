@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+        // Project Options
+        "declarationMap": true,
+        "downlevelIteration": true,
+        "sourceMap": true,
+        "target": "ES2015",
+
+        // Strict Checks
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "strictBindCallApply": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+
+        // Module Resolution
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "moduleResolution": "Node",
+
+        // Source Maps
+
+        // Linter Checks
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+
+        // Experimental
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+
+        // Advanced
+        "forceConsistentCasingInFileNames": true,
+        "newLine": "lf",
+        "resolveJsonModule": true,
+        "useDefineForClassFields": true,
+    },
+}
