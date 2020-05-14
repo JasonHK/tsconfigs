@@ -1,0 +1,21 @@
+{
+  "name": "typescript-configs",
+  "description": "A set of common TypeScript configuration files used by my TypeScript projects.",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net/)",
+  "homepage": "https://github.com/JasonHK/typescript-configs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK/typescript-configs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JasonHK/typescript-configs/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
