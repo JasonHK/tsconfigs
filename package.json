@@ -13,7 +13,8 @@
     "url": "https://github.com/JasonHK/typescript-config/issues"
   },
   "scripts": {
-    "lint": "npx jsonlint --quiet --indent 4 --comments --no-duplicate-keys ./tsconfig.json"
+    "lint": "npx jsonlint --quiet --indent 4 --comments --no-duplicate-keys ./tsconfig.json",
+    "release": "npx standard-version"
   },
   "dependencies": {},
   "devDependencies": {
