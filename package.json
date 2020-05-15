@@ -1,7 +1,6 @@
 {
-  "name": "typescript-configs",
+  "name": "@jasonhk/typescript-config",
   "description": "A common TypeScript configuration file used by my TypeScript projects as the base configuration.",
-  "private": true,
   "version": "1.0.0",
   "license": "MIT",
   "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net/)",
@@ -14,8 +13,10 @@
     "url": "https://github.com/JasonHK/typescript-config/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx jsonlint --quiet --indent 4 --comments --no-duplicate-keys ./tsconfig.json"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@prantlf/jsonlint": "^10.2.0"
+  }
 }
