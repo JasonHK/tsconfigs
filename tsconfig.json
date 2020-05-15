@@ -33,6 +33,6 @@
         "forceConsistentCasingInFileNames": true,
         "newLine": "lf",
         "resolveJsonModule": true,
-        "useDefineForClassFields": true,
-    },
+        "useDefineForClassFields": true
+    }
 }
