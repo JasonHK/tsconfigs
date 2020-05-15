@@ -1,0 +1,11 @@
+os: linux
+dist: bionic
+
+language: node_js
+node_js: 13
+
+jobs:
+  include:
+    - stage: Tests
+      name: Code Linting
+      script: npm run lint
