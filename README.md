@@ -1,2 +1,4 @@
-# tsconfigs
-A set of common TypeScript configuration files used by my TypeScript projects.
+typescript-configs
+==================
+
+A common TypeScript configuration file used by my TypeScript projects as the base configuration.
