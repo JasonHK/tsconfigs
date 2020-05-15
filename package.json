@@ -17,6 +17,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@prantlf/jsonlint": "^10.2.0"
+    "@prantlf/jsonlint": "^10.2.0",
+    "standard-version": "^8.0.0"
   }
 }
