@@ -1,7 +1,6 @@
 {
     "compilerOptions": {
         // Project Options
-        "declarationMap": true,
         "downlevelIteration": true,
         "sourceMap": true,
         "target": "ES2015",
