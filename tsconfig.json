@@ -28,6 +28,10 @@
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
 
+        // Command Line
+
+        // Watch Options
+
         // Advanced
         "forceConsistentCasingInFileNames": true,
         "newLine": "lf",
